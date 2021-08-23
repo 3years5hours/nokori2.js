@@ -41,5 +41,5 @@
                         break;
 
         }
-        document.write( h +"<br>"  );
-        //document.write( string +"<br>" );// 通常の残りセット数
+        //document.write( h +"<br>"  );
+        document.write( string +"<br>" );// 通常の残りセット数
